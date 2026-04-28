@@ -9,16 +9,16 @@
 
 const urls = [
 
-'https://zh.surveymonkey.com/r/ZXVWHL8',
+'https://zh.surveymonkey.com/r/ZXVWHL8', // Google_A
 
-'https://zh.surveymonkey.com/r/RNGRNWB',
+'https://zh.surveymonkey.com/r/RNGRNWB', // Google_B
 
-'https://zh.surveymonkey.com/r/ZXVX22W',
+'https://zh.surveymonkey.com/r/ZXVX22W', // Overview_A
 
-'https://zh.surveymonkey.com/r/ZXVGGRH',
+'https://zh.surveymonkey.com/r/ZXVGGRH', // Overview_B
 
-'https://zh.surveymonkey.com/r/RNGHM6M',
+'https://zh.surveymonkey.com/r/RNGHM6M', // GPT_A
 
-'https://zh.surveymonkey.com/r/ZX7LF5X'
+'https://zh.surveymonkey.com/r/ZX7LF5X' // GPT_B
 	
 	];
