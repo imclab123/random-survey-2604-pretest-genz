@@ -18,6 +18,6 @@ const urls = [
 
 'https://zh.surveymonkey.com/r/7JRJYQY', // GPT_A_5
 	
-'https://zh.surveymonkey.com/r/7JXTF5V' // GPT_B_6
+
 	
 	];
