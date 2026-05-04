@@ -11,8 +11,6 @@ const urls = [
 
 'https://zh.surveymonkey.com/r/8BKJK3W', // Google_A_1
 	
-'https://zh.surveymonkey.com/r/X3WNFGR', // Google_B_2
-	
 'https://zh.surveymonkey.com/r/ZXVX22W', // Overview_A_3
 	
 'https://zh.surveymonkey.com/r/XFR2GLF', // Overview_B_4
